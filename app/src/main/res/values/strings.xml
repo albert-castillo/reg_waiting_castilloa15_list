@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">reg_waiting_castilloa15_list</string>
+    <string name="help_id">"Use for delete and update only!"</string>
+    <string name="ID">"ID"</string>
+    <string name="Name">"Name"</string>
+    <string name="Priority">"Priority"</string>
+    <string name="Surname">"Surname"</string>
+
+    <string name="add">"ADD DATA"</string>
+    <string name="view">"VIEW ALL"</string>
+    <string name="update">"UPDATE"</string>
+    <string name="delete">"DELETE"</string>
+
+</resources>
